@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mmusumeci
-- 👀 I’m interested in ... web development, information security, android development, and game design and programming.
-- 🌱 I’m currently learning ... fundamental concepts of computer science and programming through CS50x.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development, information security, android development, game design, and just programming in general
+- 🌱 I’m currently learning fundamental concepts of computer science and programming through CS50x.
 
 <!---
 mmusumeci/mmusumeci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
